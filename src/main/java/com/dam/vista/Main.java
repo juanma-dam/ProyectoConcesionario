@@ -1,4 +1,4 @@
-package com.dam;
+package com.dam.vista;
 
 
 import java.util.Scanner;
